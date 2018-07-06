@@ -35,8 +35,8 @@
 #include "webp/decode.h"
 #endif
 
-/* Maximum resolution is 25Mpx */
-#define MAX_RESOLUTION 25000000
+/* Maximum resolution is 50Mpx */
+#define MAX_RESOLUTION 50000000
 #define PNG 'p'
 #define JPEG 'j'
 #define WEBP 'w'
